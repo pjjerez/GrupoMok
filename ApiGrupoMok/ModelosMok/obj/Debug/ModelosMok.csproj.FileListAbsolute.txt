@@ -1,0 +1,9 @@
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\ModelosMok\bin\Debug\ModelosMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\ModelosMok\bin\Debug\ModelosMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\ModelosMok\obj\Debug\ModelosMok.csproj.AssemblyReference.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\ModelosMok\obj\Debug\ModelosMok.csproj.CoreCompileInputs.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\ModelosMok\obj\Debug\ModelosMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\ModelosMok\obj\Debug\ModelosMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\ModelosMok\bin\Debug\System.Data.SqlClient.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\ModelosMok\bin\Debug\System.Data.SqlClient.xml
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\ModelosMok\obj\Debug\ModelosMok.csproj.CopyComplete

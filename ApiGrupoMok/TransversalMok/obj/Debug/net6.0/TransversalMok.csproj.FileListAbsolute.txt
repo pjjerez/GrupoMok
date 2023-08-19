@@ -1,0 +1,12 @@
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\bin\Debug\net6.0\TransversalMok.deps.json
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\bin\Debug\net6.0\TransversalMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\bin\Debug\net6.0\TransversalMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\obj\Debug\net6.0\TransversalMok.csproj.AssemblyReference.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\obj\Debug\net6.0\TransversalMok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\obj\Debug\net6.0\TransversalMok.AssemblyInfoInputs.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\obj\Debug\net6.0\TransversalMok.AssemblyInfo.cs
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\obj\Debug\net6.0\TransversalMok.csproj.CoreCompileInputs.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\obj\Debug\net6.0\TransversalMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\obj\Debug\net6.0\refint\TransversalMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\obj\Debug\net6.0\TransversalMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\TransversalMok\obj\Debug\net6.0\ref\TransversalMok.dll

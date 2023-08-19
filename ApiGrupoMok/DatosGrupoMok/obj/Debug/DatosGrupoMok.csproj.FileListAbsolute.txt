@@ -1,0 +1,13 @@
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\bin\Debug\DatosGrupoMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\bin\Debug\DatosGrupoMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\bin\Debug\ModelosMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\bin\Debug\ModelosMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\obj\Debug\DatosGrupoMok.csproj.AssemblyReference.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\obj\Debug\DatosGrupoMok.csproj.CoreCompileInputs.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\obj\Debug\DatosGrupoMok.csproj.CopyComplete
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\obj\Debug\DatosGrupoMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\obj\Debug\DatosGrupoMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\bin\Debug\System.Data.SqlClient.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\bin\Debug\System.Data.SqlClient.xml
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\obj\Debug\DatosGrupoMok.ParametrosGrupoMok.resources
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosGrupoMok\obj\Debug\DatosGrupoMok.csproj.GenerateResource.cache

@@ -1,0 +1,12 @@
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\bin\Debug\net6.0\DatosMok.deps.json
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\bin\Debug\net6.0\DatosMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\bin\Debug\net6.0\DatosMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\obj\Debug\net6.0\DatosMok.csproj.AssemblyReference.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\obj\Debug\net6.0\DatosMok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\obj\Debug\net6.0\DatosMok.AssemblyInfoInputs.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\obj\Debug\net6.0\DatosMok.AssemblyInfo.cs
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\obj\Debug\net6.0\DatosMok.csproj.CoreCompileInputs.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\obj\Debug\net6.0\DatosMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\obj\Debug\net6.0\refint\DatosMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\obj\Debug\net6.0\DatosMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\DatosMok\obj\Debug\net6.0\ref\DatosMok.dll

@@ -1,0 +1,13 @@
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\bin\Debug\NegocioMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\bin\Debug\NegocioMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\bin\Debug\DatosGrupoMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\bin\Debug\ModelosMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\bin\Debug\DatosGrupoMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\bin\Debug\ModelosMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\obj\Debug\NegocioMok.csproj.AssemblyReference.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\obj\Debug\NegocioMok.csproj.CoreCompileInputs.cache
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\obj\Debug\NegocioMok.csproj.CopyComplete
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\obj\Debug\NegocioMok.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\obj\Debug\NegocioMok.pdb
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\bin\Debug\System.Data.SqlClient.dll
+C:\Datos\Desarrollo\2023\GrupoMok\ApiGrupoMok\NegocioMok\bin\Debug\System.Data.SqlClient.xml

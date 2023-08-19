@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ApiCrud\\ApiCrud.csproj": {}
+  },
+  "projects": {
+    "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ApiCrud\\ApiCrud.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ApiCrud\\ApiCrud.csproj",
+        "projectName": "ApiCrud",
+        "projectPath": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ApiCrud\\ApiCrud.csproj",
+        "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
+        "outputPath": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ApiCrud\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\NegocioMok\\NegocioMok.csproj": {
+                "projectPath": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\NegocioMok\\NegocioMok.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\DatosGrupoMok\\DatosGrupoMok.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\DatosGrupoMok\\DatosGrupoMok.csproj",
+        "projectName": "DatosGrupoMok",
+        "projectPath": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\DatosGrupoMok\\DatosGrupoMok.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ModelosMok\\ModelosMok.csproj": {
+                "projectPath": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ModelosMok\\ModelosMok.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ModelosMok\\ModelosMok.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ModelosMok\\ModelosMok.csproj",
+        "projectName": "ModelosMok",
+        "projectPath": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ModelosMok\\ModelosMok.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\NegocioMok\\NegocioMok.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\NegocioMok\\NegocioMok.csproj",
+        "projectName": "NegocioMok",
+        "projectPath": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\NegocioMok\\NegocioMok.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\DatosGrupoMok\\DatosGrupoMok.csproj": {
+                "projectPath": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\DatosGrupoMok\\DatosGrupoMok.csproj"
+              },
+              "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ModelosMok\\ModelosMok.csproj": {
+                "projectPath": "C:\\Datos\\Desarrollo\\2023\\GrupoMok\\ApiGrupoMok\\ModelosMok\\ModelosMok.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
